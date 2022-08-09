@@ -1,0 +1,20 @@
+{
+  "name": "Cool Astronaut",
+  "symbol": "COOL",
+  "description": "Cool Astronaut NFT",
+  "image": "https://raw.githubusercontent.com/NielAndalecio/NFT-Assets/main/Astro.png",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Blue"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/NielAndalecio/NFT-Assets/main/Astro.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
