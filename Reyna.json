@@ -1,10 +1,20 @@
-{
+
   "name": "Reyna",
   "symbol": "VAL",
   "description": "Reyna Valorant Meme Collection!",
-  "seller_fee_basis_points": 5,
-  "external_url": "",
-  "edition": "",
-  "background_color": "000000",
-  "image": "https://raw.githubusercontent.com/NielAndalecio/NFT-Assets/main/Reyna.png"
+  "image": "https://raw.githubusercontent.com/NielAndalecio/NFT-Assets/main/Reyna.png",
+  "attributes": [
+    {
+      "trait_type": "Race",
+      "value": "Mexican"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/NielAndalecio/NFT-Assets/main/Reyna.png",
+        "type": "image/png"
+      }
+    ]
+  }
 }
